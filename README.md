@@ -9,5 +9,5 @@ npx create-expo-app -e with-router
 npx expo start
 
 ```
-<video src="assets/Demo.mp4" controls width="600"></video>
+<video src="Demo.mp4" controls width="600"></video>
 
