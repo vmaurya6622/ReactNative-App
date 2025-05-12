@@ -6,15 +6,8 @@ Use [`expo-router`](https://docs.expo.dev/router/introduction/) to build native 
 
 ```sh
 npx create-expo-app -e with-router
+npx expo start
+
 ```
+<video src="demo.mp4" controls width="600"></video>
 
-## Deploy
-
-Deploy on all platforms with Expo Application Services (EAS).
-
-- Deploy the website: `npx eas-cli deploy` — [Learn more](https://docs.expo.dev/eas/hosting/get-started/)
-- Deploy on iOS and Android using: `npx eas-cli build` — [Learn more](https://expo.dev/eas)
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://docs.expo.dev/router/introduction/)
