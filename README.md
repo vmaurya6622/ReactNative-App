@@ -9,6 +9,6 @@ npx create-expo-app -e with-router
 npx expo start
 
 ```
-[![Watch the video]()](https://youtube.com/shorts/JX-V4TR0pQ0?feature=share)
+[![Watch the video](https://img.youtube.com/vi/JX-V4TR0pQ0/0.jpg)](https://youtube.com/shorts/JX-V4TR0pQ0?feature=share)
 
 
